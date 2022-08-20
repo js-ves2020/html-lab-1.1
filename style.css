@@ -30,6 +30,9 @@ body {
     color: rgb(18, 18, 19);
     background:#b83d3d90;
   }
+a:link{
+    color:#8b2c2c90;
+}
 a:visited{
     color: rgb(176, 196, 213);
 }
