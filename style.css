@@ -1,44 +1,45 @@
 body {
-    background: linear-gradient(rgb(176, 196, 213), rgb(94, 94, 152));
-    border: 5px solid;
-    margin: 0px;
-  }
-  th, td {
-    border: 1px solid black;
-    border-radius: 10px;
-  }
-  tr{
-    border: 5px;
-    border-color: black;
-  }
-  table {
-    color:rgb(12, 12, 12);
-    text-align: center;
-    font-family:'Times New Roman', Times, serif;
-    font-size:16px;
-    background-color:rgb(209, 134, 207);
-    padding: 30px;
-    border: 5px solid;
-    margin-top: 50px ;
-    margin-bottom: 50px ;
-  }
-  table tr ::first-letter {
-    color: #8b2c2c90;
-    font-size: xx-large;
-  }
-  ::selection {
-    color: rgb(18, 18, 19);
-    background:#b83d3d90;
-  }
-a:link{
-    color:#8b2c2c90;
+  background: linear-gradient(rgb(221, 238, 254), rgb(94, 94, 152));
+  border: 5px solid;
+  margin: 0px;
 }
-a:visited{
-    color: rgb(176, 196, 213);
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
 }
-  iframe{
-    margin-bottom: 50px;
-    margin-left:auto;
-    margin-right:auto;
-  }
-  
+tr{
+  border: 5px;
+  border-color: black;
+}
+table {
+  color:rgb(12, 12, 12);
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+  font-size:16px;
+  background-color:rgb(237, 132, 233);
+  padding: 30px;
+  border: 5px solid;
+  margin-top: 50px ;
+  margin-bottom: 50px ;
+}
+table tr ::first-letter {
+  color: #711e1e90;
+  font-size: xx-large;
+}
+::selection {
+  color: rgb(18, 18, 19);
+  background:#b83d3d90;
+}
+a:hover {
+  color: #7a0b7a;
+}
+
+a:active {
+  color: #8d8dba;
+}
+
+iframe{
+  margin-bottom: 50px;
+  margin-left:auto;
+  margin-right:auto;
+}
