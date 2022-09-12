@@ -9,10 +9,10 @@ th, td {
 }
 tr{
   border: 5px;
-  border-color: black;
+  border-color: green;
 }
 table {
-  color:rgb(12, 12, 12);
+  color:green;
   text-align: center;
   font-family:'Times New Roman', Times, serif;
   font-size:16px;
